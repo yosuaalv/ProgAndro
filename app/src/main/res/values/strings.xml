@@ -5,4 +5,5 @@
     <string name="login">LOGIN</string>
     <string name="password">Password</string>
     <string name="not_a_member_sign_up_now">Not a member ? Sign up now.</string>
+    <string name="welcome_to_my_homepage_bro" />
 </resources>
