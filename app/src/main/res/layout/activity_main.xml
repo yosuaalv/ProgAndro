@@ -48,7 +48,7 @@
             android:id="@+id/textView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="not_a_member_sign_up_now" />
+            android:text="not_a_member_?_sign_up_now" />
     </LinearLayout>
 
 
